@@ -1,0 +1,6 @@
+librosa
+matplotlib
+Ipython
+scipy
+pandas
+#-e .
