@@ -5,4 +5,5 @@ scipy
 pandas
 tqdm
 resampy
+tensorflow
 #-e .
