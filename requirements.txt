@@ -6,4 +6,5 @@ pandas
 tqdm
 resampy
 tensorflow
+seaborn
 #-e .
